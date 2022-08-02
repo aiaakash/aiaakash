@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aiaakash
 - 👀 I’m interested in Analytics, Data Science, ML & Cloud computing
-- 🌱 Python, SQL, R, Tableau & Power BI
+- 🌱 Python, SQL, R, SAS
 - 📫 How to reach me - aakash.cvd@gmail.com
 
 <!---
