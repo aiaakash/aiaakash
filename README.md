@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @aiaakash
-- 👀 I’m interested in Analytics, Data Science, ML & Cloud computing
-- 🌱 Python, SQL, R, SAS
+- 👋 Hi, I’m aakash
+- 👀 I’m interested in software development
+- 🎨 creator of a free SQL learning platform - https://sqlguroo.com
+- 🌱 Python, SQL, Golang, JS
 - 📫 How to reach me - aakash.cvd@gmail.com
 
 <!---
